@@ -1,16 +1,16 @@
 {
-"name": "iminextmember",
-"theme": "iminext member",
-"version": "2.8.4",
-"description": "iminext member สมัครสมาชิกเว็บบาคาร่าเว็บตรง อันดับ 1 แจกเครดิตฟรี",
-"keywords": [
-"iminext member",
-"iminext member เครดิตฟรี",
-"iminext member ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/iminextmember",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "iminextmember",
+  "theme": "iminext member",
+  "version": "2.9.0",
+  "description": "iminext member สมัครสมาชิกเว็บบาคาร่าเว็บตรง อันดับ 1 แจกเครดิตฟรี",
+  "keywords": [
+    "iminext member",
+    "iminext member เครดิตฟรี",
+    "iminext member ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/iminextmember",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
